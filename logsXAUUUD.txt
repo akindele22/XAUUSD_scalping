@@ -1,0 +1,164 @@
+Order: 
+OrderSendResult(retcode=10009, deal=20454806, order=61165479, volume=0.01, price=1840.595, bid=1840.395, ask=1840.595, comment='Request executed', request_id=4, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1840.598, stoplimit=0.0, sl=1839.598, tp=1842.598, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20455986, order=61169221, volume=0.01, price=1839.2, bid=1839.0, ask=1839.2, comment='Request executed', request_id=5, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.2, stoplimit=0.0, sl=1838.2, tp=1841.2, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20456322, order=61170197, volume=0.01, price=1839.627, bid=1839.4270000000001, ask=1839.627, comment='Request executed', request_id=6, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.627, stoplimit=0.0, sl=1838.627, tp=1841.627, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20456460, order=61170696, volume=0.01, price=1839.374, bid=1839.174, ask=1839.374, comment='Request executed', request_id=7, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.374, stoplimit=0.0, sl=1838.374, tp=1841.374, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20461691, order=61222481, volume=0.01, price=1839.5710000000001, bid=1839.371, ask=1839.5710000000001, comment='Request executed', request_id=11, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.567, stoplimit=0.0, sl=1838.567, tp=1841.567, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20461754, order=61223848, volume=0.01, price=1838.799, bid=1838.599, ask=1838.799, comment='Request executed', request_id=12, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1838.799, stoplimit=0.0, sl=1837.799, tp=1840.799, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20470154, order=61303677, volume=0.01, price=1840.527, bid=1840.327, ask=1840.527, comment='Request executed', request_id=15, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1840.527, stoplimit=0.0, sl=1839.527, tp=1842.527, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20470301, order=61304507, volume=0.01, price=1840.7450000000001, bid=1840.545, ask=1840.7450000000001, comment='Request executed', request_id=16, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1840.745, stoplimit=0.0, sl=1839.745, tp=1842.745, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20474769, order=61320205, volume=0.01, price=1842.782, bid=1842.582, ask=1842.782, comment='Request executed', request_id=19, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1842.816, stoplimit=0.0, sl=1841.816, tp=1844.816, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20481513, order=61337917, volume=0.01, price=1840.597, bid=1840.397, ask=1840.597, comment='Request executed', request_id=20, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1840.597, stoplimit=0.0, sl=1839.597, tp=1842.597, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20482539, order=61340319, volume=0.01, price=1839.515, bid=1839.315, ask=1839.515, comment='Request executed', request_id=21, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.515, stoplimit=0.0, sl=1838.515, tp=1841.515, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20483970, order=61344440, volume=0.01, price=1839.241, bid=1839.041, ask=1839.241, comment='Request executed', request_id=22, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.241, stoplimit=0.0, sl=1838.241, tp=1841.241, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20485578, order=61350916, volume=0.01, price=1839.313, bid=1839.113, ask=1839.313, comment='Request executed', request_id=23, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1839.313, stoplimit=0.0, sl=1838.313, tp=1841.313, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20501892, order=61394345, volume=0.01, price=1842.664, bid=1842.464, ask=1842.664, comment='Request executed', request_id=32, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1842.656, stoplimit=0.0, sl=1841.656, tp=1844.656, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20503043, order=61397087, volume=0.01, price=1843.838, bid=1843.6380000000001, ask=1843.838, comment='Request executed', request_id=33, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1843.838, stoplimit=0.0, sl=1842.838, tp=1845.838, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20513190, order=61417245, volume=0.01, price=1847.067, bid=1846.867, ask=1847.067, comment='Request executed', request_id=38, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.06, stoplimit=0.0, sl=1846.06, tp=1849.06, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20514369, order=61419897, volume=0.01, price=1847.1480000000001, bid=1846.948, ask=1847.1480000000001, comment='Request executed', request_id=39, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.12, stoplimit=0.0, sl=1846.12, tp=1849.12, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20518062, order=61427922, volume=0.01, price=1847.2340000000002, bid=1847.034, ask=1847.2340000000002, comment='Request executed', request_id=40, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.301, stoplimit=0.0, sl=1846.301, tp=1849.301, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=13590034, order=46060368, volume=0.01, price=1848.251, bid=1848.051, ask=1848.251, comment='Request executed', request_id=1, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1848.241, stoplimit=0.0, sl=1847.241, tp=1851.741, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=2, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.785, stoplimit=0.0, sl=1846.785, tp=1851.285, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=13598723, order=46076054, volume=0.01, price=1844.055, bid=1843.855, ask=1844.055, comment='Request executed', request_id=3, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1844.055, stoplimit=0.0, sl=1843.055, tp=1847.555, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=4, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1844.104, stoplimit=0.0, sl=1843.104, tp=1847.604, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=5, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1844.079, stoplimit=0.0, sl=1843.079, tp=1847.579, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=13640995, order=46162952, volume=0.01, price=1850.824, bid=1850.624, ask=1850.824, comment='Request executed', request_id=1, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1850.824, stoplimit=0.0, sl=1849.824, tp=1854.324, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=2, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1850.769, stoplimit=0.0, sl=1849.769, tp=1854.269, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20656783, order=61886921, volume=0.01, price=1848.873, bid=1848.673, ask=1848.873, comment='Request executed', request_id=1, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1848.873, stoplimit=0.0, sl=1847.873, tp=1850.873, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20657196, order=61887949, volume=0.01, price=1848.616, bid=1848.416, ask=1848.616, comment='Request executed', request_id=2, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1848.618, stoplimit=0.0, sl=1847.618, tp=1850.618, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20657527, order=61889472, volume=0.01, price=1847.848, bid=1847.6480000000001, ask=1847.848, comment='Request executed', request_id=3, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.848, stoplimit=0.0, sl=1846.848, tp=1849.848, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20657862, order=61891325, volume=0.01, price=1848.1580000000001, bid=1847.958, ask=1848.1580000000001, comment='Request executed', request_id=4, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1848.125, stoplimit=0.0, sl=1847.125, tp=1850.125, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1848.387, stoplimit=0.0, sl=1847.387, tp=1850.387, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20660610, order=61902180, volume=0.01, price=1847.01, bid=1846.81, ask=1847.01, comment='Request executed', request_id=5, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.01, stoplimit=0.0, sl=1846.01, tp=1849.01, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20660784, order=61903077, volume=0.01, price=1847.063, bid=1846.863, ask=1847.063, comment='Request executed', request_id=6, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.063, stoplimit=0.0, sl=1846.063, tp=1849.063, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1846.695, stoplimit=0.0, sl=1845.695, tp=1848.695, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20661337, order=61905047, volume=0.01, price=1846.515, bid=1846.315, ask=1846.515, comment='Request executed', request_id=7, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1846.515, stoplimit=0.0, sl=1845.515, tp=1848.515, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20661502, order=61905702, volume=0.01, price=1846.08, bid=1845.88, ask=1846.08, comment='Request executed', request_id=8, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1846.08, stoplimit=0.0, sl=1845.08, tp=1848.08, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20665484, order=61918708, volume=0.01, price=1847.853, bid=1847.653, ask=1847.853, comment='Request executed', request_id=11, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.853, stoplimit=0.0, sl=1846.853, tp=1849.853, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20681490, order=61965891, volume=0.01, price=1847.365, bid=1847.165, ask=1847.365, comment='Request executed', request_id=13, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.365, stoplimit=0.0, sl=1846.365, tp=1849.365, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10009, deal=20682111, order=61967432, volume=0.01, price=1846.883, bid=1846.683, ask=1846.883, comment='Request executed', request_id=14, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1846.815, stoplimit=0.0, sl=1845.815, tp=1848.815, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=18, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.769, stoplimit=0.0, sl=1846.769, tp=1849.769, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=19, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1847.806, stoplimit=0.0, sl=1846.806, tp=1849.806, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
+Order: 
+OrderSendResult(retcode=10019, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='No money', request_id=23, retcode_external=0, request=TradeRequest(action=1, magic=100, order=0, symbol='XAUUSDm', volume=0.01, price=1850.506, stoplimit=0.0, sl=1849.506, tp=1852.506, deviation=0, type=0, type_filling=0, type_time=0, expiration=0, comment='python market order', position=0, position_by=0))
+-------
+
