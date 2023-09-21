@@ -6,9 +6,19 @@
 - 🔭 I’m currently working on **Scalping strategy(Gold/usd)**
 
 - 🌱 I’m currently learning **Financial machine learning**
+
+  What you would find in this project
+  How I got live data from my broker(Exness) with metatrader
+  
+- This function (specify_candle_type7) specify the candle type
+
+-  **trend_detection7** function calculate the trends in the market
+  This calculate the market trend with the candle sticks type.
+
 -  This is a trading strategy with 1minute entry 
--  I used only price action(Break of market structure, potential order block, trend detection)  
+  I used only price action(Break of market structure, potential order block, trend detection) including pinbar and Higher highs, Higher low, Lower highs and lower lows
 -  I used Metatrader5 python integration to execute my trades  With the use of Exness as my data source
+
 
 - 💬 Ask me about **Python,Nodejs,Django,Pandas,Sckit-Learn,Tensor-flow**
 
